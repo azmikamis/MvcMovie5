@@ -1,5 +1,6 @@
 namespace MvcMovie.Migrations
 {
+    using Core;
     using MvcMovie.Models;
     using System;
     using System.Data.Entity;
